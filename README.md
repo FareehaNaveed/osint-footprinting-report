@@ -23,7 +23,7 @@ A comprehensive, hands-on report detailing a structured Open-Source Intelligence
 *   **Analysis:** WHOIS, BuiltWith, Wappalyzer, Wayback Machine, ipinfo.io
 
 ## 📄 Download the Full Report
-You can view/download the complete report here: **[REPORT.pdf](OSINT FRAMEWORK AND FOOTPRINTING.pdf)**
+You can view/download the complete report here: **[REPORT.pdf](https://github.com/FareehaNaveed/osint-footprinting-report/blob/main/OSINT%20FRAMEWORK%20AND%20FOOTPRINTING.pdf)**
 
 ## 🎯 Purpose
 This report serves as a learning resource for:
